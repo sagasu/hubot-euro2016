@@ -1,0 +1,23 @@
+{
+  "name": "hubot-euro2016",
+  "version": "1.0.0",
+  "description": "A funy answers to football euro 2016 questions. Based on various memes and videos that are available on internet.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagasu/hubot-euro2016.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "author": "Mateusz Kopin <sagasu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagasu/hubot-euro2016/issues"
+  },
+  "homepage": "https://github.com/sagasu/hubot-euro2016#readme"
+}
